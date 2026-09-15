@@ -1,4 +1,4 @@
-# Hi, I'm Mateusz 👋
+# Hi, I'm Mateusz
 
 ### Data Analyst | Analytics Automation | Business Process Improvement
 
@@ -8,7 +8,7 @@ I enjoy building solutions that turn repetitive manual tasks into reliable, auto
 
 My work combines business understanding with tools such as **SQL, Python, Power Query, Excel and Google Sheets**.
 
-## 🔍 What I work on
+## What I work on
 
 - Data analysis and business reporting
 - Process automation
@@ -17,7 +17,7 @@ My work combines business understanding with tools such as **SQL, Python, Power 
 - Decision-support tools
 - Business process improvement
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Data & Analytics:**  
 SQL · DuckDB · Power Query · Excel · Google Sheets
@@ -31,7 +31,7 @@ Excel · Google Sheets · Power BI
 **Tools:**  
 DBeaver · Git · GitHub
 
-## 🚀 Featured Projects
+## Featured Projects
 
 I'm currently preparing case studies based on real business problems I have solved in my work.
 
@@ -46,7 +46,7 @@ They include projects involving:
 
 Projects will be published here progressively.
 
-## 🌱 Currently Developing
+## Currently Developing
 
 I'm currently improving my skills in:
 
@@ -58,7 +58,7 @@ I'm currently improving my skills in:
 
 ---
 
-## 🇵🇱 O mnie
+## O mnie
 
 Jestem analitykiem danych, który szczególnie interesuje się **automatyzacją procesów, analizą biznesową oraz projektowaniem rozwiązań usprawniających codzienną pracę**.
 
