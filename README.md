@@ -67,3 +67,4 @@ W swoich projektach łączę znajomość procesów biznesowych z narzędziami ta
 Największą satysfakcję daje mi nie samo przygotowanie analizy, ale znalezienie sposobu, dzięki któremu dany proces może w przyszłości działać **szybciej, dokładniej i z mniejszą liczbą ręcznych operacji**.
 
 Obecnie rozwijam portfolio oparte na rzeczywistych problemach biznesowych, które rozwiązywałem w swojej pracy.
+<!-- GitHub portfolio -->
